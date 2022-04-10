@@ -20,6 +20,7 @@
       "@components/*": ["./src/components/*"],
       "@store/*": ["./src/store/*"],
       "@util/*": ["./src/util/*"],
+      "@img/*": ["./src/img/*"],
       "@/*": ["./src/*"]
     }
   },
